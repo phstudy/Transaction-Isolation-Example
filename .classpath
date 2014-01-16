@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry sourcepath="/Users/study/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/f3f156cbff0e0fb0d64bfce31a352cce4a33bc19/commons-logging-1.1.1-sources.jar" kind="lib" path="/Users/study/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.1.1/5043bfebc3db072ed80fbd362e7caf00e885d8ae/commons-logging-1.1.1.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/study/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/bf945d1dc995be7fe64923625f842fbb6bf443be/log4j-1.2.16-sources.jar" kind="lib" path="/Users/study/.gradle/caches/modules-2/files-2.1/log4j/log4j/1.2.16/7999a63bfccbc7c247a9aea10d83d4272bd492c6/log4j-1.2.16.jar" exported="true"/>
+	<classpathentry sourcepath="/Users/study/.gradle/caches/modules-2/files-2.1/commons-dbutils/commons-dbutils/1.5/9e23979fd616dbc17299c18c0f98bf244535acb5/commons-dbutils-1.5-sources.jar" kind="lib" path="/Users/study/.gradle/caches/modules-2/files-2.1/commons-dbutils/commons-dbutils/1.5/3ff5aa0e4ab4e8ac7ce596e681d2eeea4258260b/commons-dbutils-1.5.jar" exported="true"/>
+	<classpathentry kind="lib" path="/Users/study/.gradle/caches/modules-2/files-2.1/org.apache.derby/derby/10.10.1.1/9f6f910f0373adc1b23c10f9b4bb151b7e7449f/derby-10.10.1.1.jar" exported="true"/>
+</classpath>
